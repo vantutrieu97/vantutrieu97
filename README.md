@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vantutrieu97 (pick up everything that may be pale)
 - 👀 I’m interested in coding, earn money, sexy...
-- 🌱 I’m currently learning Dart/Flutter, C++
+- 🌱 I’m currently learning Dart/Flutter, C++/Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...: telegram: @vantutrieu97
 
